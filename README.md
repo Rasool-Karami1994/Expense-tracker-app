@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 first of all in Terminal you should install node modules package.
 and then
-###`install reac-icons`
+install react-icons`
 then use
 ### `npm start`
 
