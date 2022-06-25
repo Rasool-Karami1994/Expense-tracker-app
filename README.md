@@ -27,4 +27,4 @@ You may also see any lint errors in the console.
 I built an app for add daily financial transactions to it and manage them with search, add and calculete the budget in my wallet.
 
 I used React and Css for building this project and I practiced useEffect and useState hooks and components conditional rendering.
-You can see the live from here:[This is an external link to genome.gov](https://rasool-expense-tracker.netlify.app (https://rasool-expense-tracker.netlify.app/)/)
+You can see the live from here:[This is an external link to rasool-expense-tracker.netlify.app](https://rasool-expense-tracker.netlify.app /)
