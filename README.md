@@ -3,7 +3,7 @@
 An application used to manage your financial transactions , built with vanila JavaScript, and CSS.
 
 
-###`You can see live from here:`
+### `You can see live from here:`
 https://rasool-expense-tracker.netlify.app 
 
 In the project directory, you can run:
