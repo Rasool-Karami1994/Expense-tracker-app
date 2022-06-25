@@ -3,6 +3,8 @@
 An application used to manage your financial transactions , built with vanila JavaScript, and CSS.
 
 
+###`You can see live from here:`
+https://rasool-expense-tracker.netlify.app 
 
 In the project directory, you can run:
 
@@ -28,4 +30,4 @@ I built an app for add daily financial transactions to it and manage them with s
 
 I used React and Css for building this project and I practiced useEffect and useState hooks and components conditional rendering.
 
-You can see live from here:https://rasool-expense-tracker.netlify.app 
+
